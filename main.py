@@ -176,9 +176,7 @@ def __main__():
         space()
         choix = input(Fore.BLUE +"[+] Ouvrir le lien de téléchargement ? [yes/no] : ")
         if choix == "yes":
-            #system("start LINKKK")
-            space()
-            print("OUTDATED FOR NOW")
+            #system("start https://mega.nz/file/aJ1UBBIS#HSd6sDrRtd6iYnc6Pkas3iV6R96ZHFr-vpug6eXKdRY")
             space()
             retour = input(Fore.GREEN + "[+] Appuyez sur ENTRER pour retourné au menu.")
             if retour == "":
